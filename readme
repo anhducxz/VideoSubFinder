@@ -1,4 +1,4 @@
 Đây là bản videosubfinder update của bản 2023 đến nay
 Bản này tính chỉnh lại thành cli, bỏ gui
-Bản update ffmpeg cho phù hợp với tình hình hiện tại
+Bản update ffmpeg cho phù hợp với tình hình hiện tại, thích hợp cho h265, không còn lỗi chạy ngắt giữa chừng
 Fix bug cli tồn dư chưa ai update
